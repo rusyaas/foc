@@ -1,0 +1,66 @@
+<root>
+
+
+	
+	<Image src="file://{images}/spellicons/hollow.png"></Image>
+	<Image src="file://{images}/spellicons/foc_getsuga_tensho.png"></Image>
+	<Image src="file://{images}/spellicons/foc_kuroi_getsuga_tensho.png"></Image>
+	<Image src="file://{images}/spellicons/foc_double_kuroi_getsuga_tensho.png"></Image>
+	<Image src="file://{images}/spellicons/foc_bankai.png"></Image>
+	<Image src="file://{images}/spellicons/foc_bankai2.png"></Image>
+	<Image src="file://{images}/spellicons/foc_bankai3.png"></Image>
+	<Image src="file://{images}/spellicons/foc_hollowfication.png"></Image>
+	<Image src="file://{images}/spellicons/reaitsu_hollow.png"></Image>
+	<Image src="file://{images}/spellicons/foc_zangetsu.png"></Image>
+	<Image src="file://{images}/spellicons/mugetsu.png"></Image>
+	<Image src="file://{images}/spellicons/saigo_no_getsuga_tensho.png"></Image>
+	<Image src="file://{images}/spellicons/foc_cero.png"></Image>
+	
+	<Image src="file://{images}/spellicons/water_pistol.png"></Image>
+	
+	<Image src="file://{images}/spellicons/solo_duel.png"></Image>
+	<Image src="file://{images}/spellicons/team_duel.png"></Image>
+	<Image src="file://{images}/spellicons/accept_duel.png"></Image>
+	<Image src="file://{images}/spellicons/decline_duel.png"></Image>
+	
+	<Image src="file://{images}/items/small_health_pot.png"></Image>
+	<Image src="file://{images}/items/large_health_pot.png"></Image>
+	<Image src="file://{images}/items/health_stone.png"></Image>
+	<Image src="file://{images}/items/agility_boots.png"></Image>
+	<Image src="file://{images}/items/axe.png"></Image>
+	<Image src="file://{images}/items/blink_boots.png"></Image>
+	<Image src="file://{images}/items/boots_of_speed_foc.png"></Image>
+	<Image src="file://{images}/items/claymore_foc.png"></Image>
+	<Image src="file://{images}/items/clone_orb.png"></Image>
+	<Image src="file://{images}/items/eye_foc.png"></Image>
+	<Image src="file://{images}/items/gamabunta_scroll.png"></Image>
+	<Image src="file://{images}/items/health_diamond.png"></Image>
+	<Image src="file://{images}/items/health_gem.png"></Image>
+	<Image src="file://{images}/items/immolation.png"></Image>
+	<Image src="file://{images}/items/immolation2.png"></Image>
+	<Image src="file://{images}/items/immolation3.png"></Image>
+	<Image src="file://{images}/items/immolation4.png"></Image>
+	<Image src="file://{images}/items/immolation5.png"></Image>
+	<Image src="file://{images}/items/invisibility_cape.png"></Image>
+	<Image src="file://{images}/items/kawarami_scroll.png"></Image>
+	<Image src="file://{images}/items/kunai.png"></Image>
+	<Image src="file://{images}/items/lion_medal.png"></Image>
+	<Image src="file://{images}/items/mask_of_shite.png"></Image>
+	<Image src="file://{images}/items/mythic_stone.png"></Image>
+	<Image src="file://{images}/items/ninjutsu_doton.png"></Image>
+	<Image src="file://{images}/items/revenant_helm.png"></Image>
+	<Image src="file://{images}/items/shield.png"></Image>
+	<Image src="file://{images}/items/silence_stone.png"></Image>
+	<Image src="file://{images}/items/speed_potion.png"></Image>
+	<Image src="file://{images}/items/strength_belt.png"></Image>
+	<Image src="file://{images}/items/substitute_bunshin.png"></Image>
+	<Image src="file://{images}/items/thorium_axe.png"></Image>
+	<Image src="file://{images}/items/vanguard_foc.png"></Image>
+	<Image src="file://{images}/items/vitality_booster.png"></Image>
+	
+	
+	
+
+</root>
+
+

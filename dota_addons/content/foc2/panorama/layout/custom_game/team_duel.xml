@@ -1,0 +1,16 @@
+<root>
+	<styles>
+		<include src="file://{resources}/styles/dotastyles.css" />
+		<include src="file://{resources}/styles/custom_game/duel.css" />
+	</styles>
+	<scripts>
+		<include src="file://panorama/scripts/custom_game/vote.js" />
+	</scripts>
+	<Panel class="teamduelsetup">
+		<Panel id="TitlePanel">			
+			<Button class="TeamDuel" onactivate="ChallengeTeam()">
+				<Label id="TextSize" text="Challenge Opposite Team" />
+			</Button>
+		</Panel>
+	</Panel>
+</root>

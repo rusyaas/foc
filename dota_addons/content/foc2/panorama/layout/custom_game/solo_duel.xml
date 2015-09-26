@@ -1,0 +1,27 @@
+<root>
+	<styles>
+		<include src="file://{resources}/styles/dotastyles.css" />
+		<include src="file://{resources}/styles/custom_game/duel.css" />
+	</styles>
+	<scripts>
+		<include src="file://panorama/scripts/custom_game/vote.js" />
+	</scripts>
+	<Panel class="soloduelsetup">
+
+		<Panel id="TitlePanel">			
+			
+				<Label id="TextSize" text="PLEASE EQUIP DEFAULT COSMETIC ITEMS FOR NOW THANK YOU"/>
+				
+		</Panel>
+		<Panel id="TitlePanel2">			
+			
+				<Label id="TextSize" text="Credits to ficterx(idea), enkei.co.jp(icons,bg), sabernero(chaosrealm) + chaosrealm members, B.T.F. portal (misaka sound), Cookies (moddota affiliate),Harley( FOC pro ). sorry if i forgot to include everyone else. Thank you for contributing."/>
+				
+		</Panel>
+		<Panel id="TitlePanel3">			
+			
+				<Label id="TextSize" text="THIS IS HARDER THAN I THOUGHT SORRY BOYS , anyone interested in doing foc based on my mod get it here https://github.com/rusyaas/fight_of_characters thanks"/>
+				
+		</Panel>
+	</Panel>
+</root>

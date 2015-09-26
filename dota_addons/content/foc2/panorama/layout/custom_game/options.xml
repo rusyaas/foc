@@ -1,0 +1,38 @@
+<root>
+	<styles>
+		<include src="file://{resources}/styles/dotastyles.css" />
+		<include src="file://{resources}/styles/custom_game/custom_game_setup.css" />
+	</styles>
+	<scripts>
+		<include src="file://panorama/scripts/custom_game/vote.js" />
+	</scripts>
+	<Panel class="focgamesetup">
+
+		<Panel id="TitlePanel">
+			<Label id="VotingPanel" text="VOTING" style="" />
+			<DropDown oninputsubmit="OnDropDownChanged()">
+				<Label text="50" id="entry1"/>
+				<Label text="75" id="entry2"/>
+				<Label text="100" id="entry3"/>
+				<Label text="420" id="entry4"/>
+			</DropDown>
+
+			<Label id="VotingPanel2" text="Solo Duel" style="" />
+			<Panel id="RadioPanel">
+			<RadioButton checked="checked" group="Solo" id="Solo1" text="ENABLE"/>
+			<RadioButton group="Solo" id="Solo2" text="DISABLE"/>
+			</Panel>
+			
+			<Label id="VotingPanel3" text="Team Duel" style="" />
+			<Panel id="RadioPanel2">
+			<RadioButton checked="checked" group="Team" id="Team1" text="ENABLE"/>
+			<RadioButton group="Team" id="Team2" text="DISABLE"/>
+			</Panel>
+			
+			<Button id="LockOption" onactivate="OnLockPressed()">
+				<Label text="Submit" />
+				<Image src="file://{images}/control_icons/shuffle.psd" />
+			</Button>
+		</Panel>
+	</Panel>
+</root>
